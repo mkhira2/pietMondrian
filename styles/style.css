@@ -41,7 +41,7 @@ html, body {
 
 .container3 {
     flex-direction: row;
-    width: 75%;
+    width: 100%;
 }
 
 .container4 {
